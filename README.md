@@ -1,1 +1,3 @@
 [![Build Status](https://travis-ci.org/GiuntaJ/Bootcamp.svg?branch=master)](https://travis-ci.org/GiuntaJ/Bootcamp)
+[![Maintainability](https://api.codeclimate.com/v1/badges/f264c3c72ff7f6de1e0f/maintainability)](https://codeclimate.com/github/GiuntaJ/SwEng_Bootcamp/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/f264c3c72ff7f6de1e0f/test_coverage)](https://codeclimate.com/github/GiuntaJ/SwEng_Bootcamp/test_coverage)
