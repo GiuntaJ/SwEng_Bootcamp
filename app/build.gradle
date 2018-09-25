@@ -40,7 +40,7 @@ dependencies {
 tasks.withType(Test) {
     jacoco.includeNoLocationClasses = true
 }
-
+//
 task jacocoTestReport(type: JacocoReport, dependsOn: ['testDebugUnitTest', 'createDebugCoverageReport']) {
 
     reports {
